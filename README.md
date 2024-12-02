@@ -1,7 +1,7 @@
 # Jesus está em todo lugar!
 
 ## 📒 Descrição
-Criei uma imagem de jesus pregando para uma multidão. 
+Criei uma imagem de esus pregando para uma multidão. 
 
 ## 🤖 Tecnologias Utilizadas
 Gerei a imagem atraves do APP Copilot da Microsoft para smartphone.
